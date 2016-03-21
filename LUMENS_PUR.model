@@ -23,11 +23,12 @@ None
 -1|FILE_REFERENCEMAPPING
 -1|FILE_PLANNINGUNIT
 None
-Unresolved|450.0,567.5
-Status Output|582.0,380.5
+Attribute|351.0,549.5
+Unresolved|471.0,488.5
+Status Output|622.0,312.5
 ALGORITHM:gdalogr:polygonize
-537.0,468.0
+556.0,396.0
 None
 0|PUR_rec1
 -1|HARDCODEDPARAMVALUE_FIELD_1
-Reconciliation result|771.0,479.0
+Reconciliation result|830.0,455.0
